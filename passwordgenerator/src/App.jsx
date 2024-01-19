@@ -74,6 +74,7 @@ function App() {
                   className='cursor-pointer'
                   onChange={(e)=>{setLength(e.target.value)}}
                   
+                  
                 />
                 <label>length:{length}</label>
             </div>
